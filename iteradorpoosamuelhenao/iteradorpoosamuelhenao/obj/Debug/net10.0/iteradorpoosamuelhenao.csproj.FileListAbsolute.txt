@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\bin\Debug\net10.0\iteradorpoosamuelhenao.exe
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\bin\Debug\net10.0\iteradorpoosamuelhenao.deps.json
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\bin\Debug\net10.0\iteradorpoosamuelhenao.runtimeconfig.json
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\bin\Debug\net10.0\iteradorpoosamuelhenao.dll
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\bin\Debug\net10.0\iteradorpoosamuelhenao.pdb
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\iteradorpoosamuelhenao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\iteradorpoosamuelhenao.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\iteradorpoosamuelhenao.AssemblyInfo.cs
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\iteradorpoosamuelhenao.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\iteradorpoosamuelhenao.dll
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\refint\iteradorpoosamuelhenao.dll
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\iteradorpoosamuelhenao.pdb
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\iteradorpoosamuelhenao.genruntimeconfig.cache
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\ref\iteradorpoosamuelhenao.dll
+C:\Users\samue\Documents\estructura de datos\iteradorpoosamuelhenao\iteradorpoosamuelhenao\obj\Debug\net10.0\iterador.4524E1DA.Up2Date
